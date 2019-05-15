@@ -21,6 +21,7 @@ JSON.parse(string)       将字符串转为JSON对象格式。
 $.parseJSON( jsonstr )      将字符串转为JSON对象格式。
 jQuery3.0以后被弃用，不建议使用
 * JSON官方的转换方式<br />
-[JSON官网] (http://www.json.org) 提供了一个json2.js。
+[JSON官网](http://www.json.org/)
+提供了一个json2.js。
 该文件使ie8(兼容模式),ie7和ie6可以支持JSON对象以及其stringify()和parse()方法； 
 请见本仓库json2.js。
